@@ -1,23 +1,19 @@
 ---
 toc: true
-comments: true
+comments: false
 layout: post
-title: Review Ticket
-description: Example Review Ticket!!! This will help us communicate results.
+title: ☆ Accomplishments
+description: What did we accomplish over the week? What did we learn?
 type: tangibles
 courses: { compsci: {week: 1} }
 ---
 
-### Summary of Accomplishments
-> Update Blog to contain all hacks.  
-- Reviewed with Pair.  Discuss/Show evidence.
-- Discuss laptop, cloud computer.
-- Discuss tools setup and troubles.
-- Show personal blog / home page.
-- Show how you are maintaining notes, answering hacks, and showing tangibles.  
-- How have you learned Markdown, HTML, CSS, JavaScript.
-- Show Jupyter Notebooks and how you have added and organized them in the blog.
-- Show evidence of using Slack Account, show app installed on Laptop and/or phone.  Show awared of #annoncements, #general, #coding.
-- Run make commands to build and test blog locally, before pushing changes to GitHub pages.
-- Discuss GitHub Account, show ability to push/pull changes from VSCode.
-- Discuss development on Themes, show how you plan to organized lab notebook.
+# <code style="color: #4e804f">☆ Unit 1 / Week 1 ☆</code>
+> ### <code style="color:#4e804f;">☆ Summary of Accomplishments ☆</code>
+- chose pairs/groups
+- learned about github pages
+- succesfully installed everything required
+- created an image describing us
+- made a unique, accesorized, blog for ourselves
+- made special changes that others didnt make
+- completed live review with a score of 1.99/2

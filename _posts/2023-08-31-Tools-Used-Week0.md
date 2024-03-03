@@ -1,15 +1,5 @@
----
-toc: true
-comments: true
-layout: post
-title: VSCode, Python, Jupyter, ...
-description: Tools and equipment setup for tools used throughout this class.
-courses: { csse: {week: 0}, csp: {week: 0}, csa: {week: 0} }
-type: hacks
----
- 
-## Hacks
-> Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
+<!--
+## Hacks Complete the procedure below accurately.  These are absolutely required and must be 100% accurate for your success.
 
 ### GitHub Account
 - Follow instruction [https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account](https://docs.github.com/en/get-started/signing-up-for-github/signing-up-for-a-new-github-account)  Use your own personal/permanent email... NOT SCHOOL!!! GitHub account belongs to you.
@@ -91,3 +81,4 @@ $ python --version  # version of python3 should be shown
 Available kernels:
   python3    /home/shay/.local/share/jupyter/kernels/python3
 ```
+-->
