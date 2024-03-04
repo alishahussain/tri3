@@ -3,8 +3,8 @@ toc: true
 comments: true
 layout: post
 title: ☆ Exit Ticket
-type: tangibles
-courses: { compsci: {week: 5} }
+type: collab
+courses: { csp: {week: 5} }
 unit: 2
 ---
  

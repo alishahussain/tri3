@@ -3,8 +3,8 @@ layout: post
 toc: false
 title: ☆ Binary Logic Final Review
 description:
-courses: { compsci: {week: 15} }
-type: tangibles
+courses: { csp: {week: 15} }
+type: collab
 ---
 
 # Binary Logic: Arcade 

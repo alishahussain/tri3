@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: ☆ Weekly Schedule
 description: Example Plan!!! Analyze hacks and plan.
-type: plans
-courses: { compsci: {week: 1} }
+type: ccc
+courses: { csp: {week: 1} }
 ---
 
 # <code style="color: #4e804f">☆ Unit 1 / Week 1 ☆</code>

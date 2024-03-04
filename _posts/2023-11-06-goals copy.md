@@ -3,8 +3,8 @@ toc: true
 comments: false
 layout: post
 title: ☆ Review Ticket
-type: tangibles
-courses: { compsci: {week: 10} }
+type: collab
+courses: { csp: {week: 10} }
 unit: 3
 ---
 

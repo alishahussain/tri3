@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: ☆ Activities
 description: Tools used during this week
-courses: { compsci: {week: 0} }
-type: hacks
+courses: { csp: {week: 0} }
+type: devops
 unit: "1"
 ---
 

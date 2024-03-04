@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: ☆ Weekly Schedule
 description: This is what we did in our first week (3 days) of comp sci
-type: plans
-courses: { compsci: {week: 2} }
+type: ccc
+courses: { csp: {week: 2} }
 unit: 1
 ---
  

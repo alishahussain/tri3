@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: ☆ Accomplishments
 description: What did we accomplish over the week? What did we learn?
-type: tangibles
-courses: { compsci: {week: 1} }
+type: collab
+courses: { csp: {week: 1} }
 ---
 
 # <code style="color: #4e804f">☆ Unit 1 / Week 1 ☆</code>

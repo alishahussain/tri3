@@ -2,9 +2,9 @@
 toc: true
 comments: true
 layout: post
-title: ☆ Plans
-type: plans
-courses: { compsci: {week: 7} }
+title: ☆ ccc
+type: ccc
+courses: { csp: {week: 7} }
 unit: 2
 ---
 

@@ -2,8 +2,8 @@
 comments: True
 layout: post
 title: ☆ Night At The Museum 
-type: tangibles
-courses: { compsci: {week: 23} }
+type: collab
+courses: { csp: {week: 23} }
 unit: 6
 ---
 
@@ -22,9 +22,9 @@ unit: 6
 
 ## Blog on event
 
-- something you saw in CompSci that impressed
+- something you saw in csp that impressed
     - I was really impressed with the stock site, that Torrin built. I thought it was really detailed and informational. and I could tell a lot of work and thought was put into it. I also liked the volunteer opurtunity finder, that my old group worked on. I liked what they did with our idea, and it looks really cool. 
-- something you saw outside of CompSci that you liked
+- something you saw outside of csp that you liked
     - I went to the photography classroom and saw really cool artworks. My favorite thing that I sae though was in the ceramics classroom. I really love ceramics, and I took the class last trimester. I know how much work and detail goes into this form of art, so I loved seeing all the creativity all around the classroom. 
 
 

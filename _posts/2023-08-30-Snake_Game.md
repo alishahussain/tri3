@@ -4,8 +4,8 @@ comments: false
 layout: post
 title: ☆ Snake Game
 description: A pretty advanced use of JavaScript building classic snake game using menu controls, key events, snake simulation and timers.
-type: hacks
-courses: { compsci: {week: 2} }
+type: devops
+courses: { csp: {week: 2} }
 ---
 
 <style>
